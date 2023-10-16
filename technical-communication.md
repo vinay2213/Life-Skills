@@ -1,14 +1,14 @@
 # Topic: Browser Rendering
-# Context: How does a browser render HTML, CSS, JS to DOM? What is the mechanism behind it?
+## Context: How does a browser render HTML, CSS, JS to DOM? What is the mechanism behind it?
 
 
 
-# Introduction:
+### Introduction:
 
 When you open a webpage in your browser, have you ever wondered how it transforms HTML, CSS and JavaScript into a visually appealing web page? The process behind this magic is known as browser rendering.
 
 
-# The Mechanism:
+### The Mechanism:
 
 1. **HTML Parsing:** The browser starts by parsing the HTML document, reading it from top to bottom. It creates a Document Object Mode (DOM), a tree-like structure that represents the webpage's structure.
 
@@ -21,14 +21,13 @@ When you open a webpage in your browser, have you ever wondered how it transform
 5. **Painting:** Finally, it paints the elements on the screen pixel by pixel.
    
 
-# References:
+### References:
 
 [How Browsers Work: Behind the scenes of modern web browsers][abc]
 [abc]: https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 
-[The Critical Rendering Path] [The Critical Rendering Path]
-[The Critical Rendering Path]: https://developers.google.com/web/fundamentals/performance/critical-rendering-path
+[The Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path)
 
 
-# Conclusion:
+### Conclusion:
 This process ensures that web pages are displayed accurately and efficiently. It's a fascinating journey from code to what we see on our screens.
