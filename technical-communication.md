@@ -23,9 +23,11 @@ When you open a webpage in your browser, have you ever wondered how it transform
 
 # References:
 
-1. [How Browsers Work: Behind the scenes of modern web browsers]: https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+1. [Link Text][How Browsers Work: Behind the scenes of modern web browsers] 
+ [How Browsers Work: Behind the scenes of modern web browsers]: https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 
-2. [The Critical Rendering Path]: https://developers.google.com/web/fundamentals/performance/critical-rendering-path
+2. [The Critical Rendering Path] [The Critical Rendering Path]
+ [The Critical Rendering Path]: https://developers.google.com/web/fundamentals/performance/critical-rendering-path
 
 
 # Conclusion:
