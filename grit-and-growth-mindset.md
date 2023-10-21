@@ -1,4 +1,4 @@
-# Git and Growth Mindset
+# Grit and Growth Mindset
 
 
 ## Question 1
